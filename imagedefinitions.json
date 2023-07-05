@@ -1,0 +1,6 @@
+[
+    {
+      "name": "ravicontainer",
+      "imageUri": "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_NAME:$IMAGE_TAG"
+    }
+  ]
